@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "eL9wvB+u1jo9gZvbEkRRFlWqce65f6UAOJqmJ2ghwsm/muFuqpFlf98t6HwBvgv8+R8cqbHBQQFsUtgzv3fjwA==",
+  "dgSpecHash": "XE53ielpGSI9GYQjRjvVWwYjZ6ZMB5ht6AI7ow/L+Jm/THAFsweKlUWEGNM6rXkc2bpAPFSVq7AJopM6IXlfgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL3\\Entregable\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL2\\IDL2-APIS\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENVY 15\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\ENVY 15\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\ENVY 15\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
     "C:\\Users\\ENVY 15\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\ENVY 15\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\ENVY 15\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\ENVY 15\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\ENVY 15\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512",
     "C:\\Users\\ENVY 15\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0\\microsoft.codeanalysis.common.4.5.0.nupkg.sha512",

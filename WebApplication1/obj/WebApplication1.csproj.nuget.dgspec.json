@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL3\\Entregable\\WebApplication1\\WebApplication1.csproj": {}
+    "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL2\\IDL2-APIS\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL3\\Entregable\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL2\\IDL2-APIS\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL3\\Entregable\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL2\\IDL2-APIS\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL3\\Entregable\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL2\\IDL2-APIS\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\ENVY 15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL3\\Entregable\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\ENVY 15\\Documents\\c# practicas\\IDL2\\IDL2-APIS\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ENVY 15\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,7 +46,7 @@
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",

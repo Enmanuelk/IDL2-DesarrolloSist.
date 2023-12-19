@@ -1,14 +1,14 @@
 ﻿using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WebAplication
+using WebApplication1.Controllers.Entidades;
 
-namespace WebAplication
+namespace WebApplication1.Controllers
 {
     [ApiController]
 
     [Route("api/autores")]
-    public class AutoresControllers: ControllerBase
+    public class AutoresControllers : ControllerBase
     {
         private readonly ApplicationDbContext context;
 
@@ -18,18 +18,17 @@ namespace WebAplication
         }
 
         [HttpGet]
-
-        public async Task<IActionResult<List<AutoresControllers>>> Get() 
+        public async Task<List<Autor>> Get()
         {
             return await context.Autores.ToListAsync();
         }
 
-        [HttpGet]
-
-        public async Task<IActionResult<Post (Autor autor)
+        [HttpPost]
+        public async Task<ActionResult> Post(Autor autor)
         {
             context.Add(autor);
-            await context.SaveChanged
+            await context.SaveChangesAsync();
+            return Ok();
         }
     }
 }
